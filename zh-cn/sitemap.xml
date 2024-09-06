@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://wangbo777.github.io/hugo/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-06T22:42:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -13,6 +13,22 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://wangbo777.github.io/hugo/"
+                />
+  </url><url>
+    <loc>https://wangbo777.github.io/hugo/p/new/</loc>
+    <lastmod>2024-09-06T22:42:58+08:00</lastmod>
+  </url><url>
+    <loc>https://wangbo777.github.io/hugo/post/</loc>
+    <lastmod>2024-09-06T22:42:58+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wangbo777.github.io/hugo/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://wangbo777.github.io/hugo/post/"
                 />
   </url><url>
     <loc>https://wangbo777.github.io/hugo/categories/</loc>
@@ -39,19 +55,6 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://wangbo777.github.io/hugo/p/test-chinese/"
-                />
-  </url><url>
-    <loc>https://wangbo777.github.io/hugo/post/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wangbo777.github.io/hugo/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://wangbo777.github.io/hugo/post/"
                 />
   </url><url>
     <loc>https://wangbo777.github.io/hugo/categories/test/</loc>
